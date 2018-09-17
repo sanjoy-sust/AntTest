@@ -8,8 +8,8 @@ Then Simply clone or download project on your PC.
 
 Now you run simple command to build project
 
-**compile** command to compile project 
-**jar** to make jar file
+**compile** command to compile project     
+**jar** to make jar file   
 **cd dist** and then run "java -jar ant-test.jar" file and out will be like this 
    Name : Flop Coder
    Identity : 36524585458585545555
