@@ -20,9 +20,9 @@
 nbproject/private/
 build/
 nbbuild/
-dist/
-nbdist/
 bin/
 out/
+dist/
+nbdist/
 classes/
 .nb-gradle/
